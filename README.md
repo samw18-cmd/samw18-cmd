@@ -11,7 +11,7 @@ const samw18-cmd = {
   pronouns: "he" | "him",
   specialisation: ["gameplay-programming", "level-design"],
   motivation: "I am inspired to create games by the joy and memories that I can bring to not only myself, but others too."
-}
+  }
 <!--
 **samw18-cmd/samw18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
