@@ -7,11 +7,11 @@
 Currently I am studying in the United Kingdom at college in order to complete a Level 3 Diploma in Games Design (Creative Practice: Art, Design and Communication). I am a specialised programmer who works in Unity and most prominently with C#, developing game mechanics and designs, creating my own individual projects designed from the ground up as well as working with classmates on group projects based on my skills as a programmer and designer.
 
 
-const samw18-cmd = {
+`const samw18-cmd = {
   pronouns: "he" | "him",
   specialisation: ["gameplay-programming", "level-design"],
   motivation: "I am inspired to create games by the joy and memories that I can bring to not only myself, but others too."
-  }
+  }`
 <!--
 **samw18-cmd/samw18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
