@@ -43,9 +43,11 @@ const samw18-cmd = {
 <br>
 
 ## 🧠 Skills
-- C#                        - Python                        - Adobe After Effects
-- Unity                     - Microsoft Visual Studio       - Adobe Substance Painter
-- Adobe Photoshop           - 3DS Max                       - Adobe Premier Pro
+````
+📌 C#                        📌 Python                        📌 Adobe After Effects
+📌 Unity                     📌 Microsoft Visual Studio       📌 Adobe Substance Painter
+📌 Adobe Photoshop           📌 3DS Max                       📌 Adobe Premier Pro
+````
 
 <!--
 **samw18-cmd/samw18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
