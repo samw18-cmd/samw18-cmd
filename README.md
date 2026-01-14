@@ -1,5 +1,7 @@
 # Welcome! Nice to meet you 👋
 
+<br>
+
 ## 👤 About me
 
 **Hi there! I'm Sam, a beginner Games Designer who is still in education and I am working hard to develop my skills.**
