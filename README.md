@@ -12,6 +12,10 @@ Currently I am studying in the United Kingdom at college in order to complete a 
 I began my journey with programming at Secondary School where I took up a Computer Science GCSE and attended extracurricular programming classes, developing skills using **Python** in the **IDLE editor**, I have always had a deep passion for programming and undertaking the problem solving that comes with it. Using the **IDLE editor** I solved basic industry and software problems with **Python** as well as working on my own personal mini-game projects.
 
 Following this passion I took up a **Level 3 Diploma in Games Design** at Penwith College which is where I am studying now. In my first year on this Diploma, I developed my first complete games within **Unity**, such as a [Horror Clicker Game](https://youtu.be/4l4xoVPqt14), learning to program in **C#** with **Microsoft Visual Studio**. For this Clicker Game project, I used my own assets made from a previous project where I developed skills using **3DS Max** and created and textured a fully rendered and complete alleyway scene, which I used as the environment for the project, combining my skills together.
+I also created another game for my final project of this year, a short demo level of [Timewarp](https://youtu.be/iA6vY71C8d8), a Narrative-driven Puzzle Game, focused around the themes of nature and time, as provided as the themes for this project.
+
+During my first year at college I also got the opportunity to attend a week long **Games Jam**, working in a group of other college students to create a game focused on the theme of 'Chaos', together we worked on a short, mechanics-driven sandbox game centered around the viewpoint of a child in a fully destructible supermarket. Unfortunately we did not bring this game to market, however the experience gained from this was undoubtedly invaluable.
+
 
 <br>
 
