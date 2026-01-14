@@ -70,7 +70,7 @@ If you haven't already, you can click the hyperlinks to view demos and gameplay 
 <br>
 <br>
 
-**You can view all of my games and finished project gameplay in order of earliest to most recent HERE:** <br>
+**You can view some of my best games and finished project gameplay in order of earliest to most recent HERE:** <br>
 - [Horror Clicker Game](https://youtu.be/4l4xoVPqt14)
 - [Timewarp](https://youtu.be/iA6vY71C8d8)
 - [Sound Design Project](https://youtu.be/azRty6Pg5ZM)
