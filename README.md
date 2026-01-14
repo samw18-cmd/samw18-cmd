@@ -49,6 +49,13 @@ const samw18-cmd = {
 📌 Adobe Photoshop           📌 3DS Max                       📌 Adobe Premier Pro
 ````
 
+<br>
+
+## 📍 Find me at...
+- samwoodhams2008@gmail.com
+- 
+
+
 <!--
 **samw18-cmd/samw18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
