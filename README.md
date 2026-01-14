@@ -48,7 +48,7 @@ const samw18-cmd = {
 📌 Unity                     📌 Microsoft Visual Studio       📌 Adobe Substance Painter
 📌 Adobe Photoshop           📌 3DS Max                       📌 Adobe Premier Pro
 ````
-and eager to learn more!
+...and eager to learn more!
 
 <br>
 
