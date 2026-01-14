@@ -21,7 +21,7 @@ During my first year at college I also got the opportunity to attend a week long
 <br>
 <br>
 
-As of currently, within my second year on this Diploma I have completed a [Sound Design Project](https://youtu.be/azRty6Pg5ZM), recreating the sounds of a game trailer using copyright-free libraries and Foley, skills which I later used to develop the audio design behind my most current and high-level game, [ULTRAKILL: Pinball](https://youtu.be/Jw5zIvuWlEY), a massive [showcase](https://youtu.be/2j_xjuMkq8U) of my skills so far.
+As of currently, within my second year on this Diploma I have completed a [Sound Design Project](https://youtu.be/azRty6Pg5ZM), recreating the sounds of a game trailer using copyright-free libraries and **Foley**, skills which I later used to develop the **audio design** behind my most current and high-level game, [ULTRAKILL: Pinball](https://youtu.be/Jw5zIvuWlEY), a massive [showcase](https://youtu.be/2j_xjuMkq8U) of my skills so far.
 
 <br>
 
