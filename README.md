@@ -40,7 +40,7 @@ const samw18-cmd = {
   motivation: "I am inspired to create games by the joy and memories that I can bring to not only myself, but others too."
   }
 ````
-
+<br>
 
 ## 🧠 Skills
 <!--
