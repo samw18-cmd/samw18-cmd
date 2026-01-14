@@ -1,13 +1,12 @@
 # Welcome! Nice to meet you 👋
 
-<br>
-
 ## 👤 About me
 
 **Hi there! I'm Sam, a beginner Games Designer who is still in education and I am working hard to develop my skills.**
 
 Currently I am studying in the United Kingdom at college in order to complete a Level 3 Diploma in Games Design (Creative Practice: Art, Design and Communication). I am a specialised programmer who works in Unity and most prominently with C#, developing game mechanics and designs, creating my own individual projects designed from the ground up as well as working with classmates on group projects based on my skills as a programmer and designer.
 
+<br>
 <br>
 
 I began my journey with programming at Secondary School where I took up a Computer Science GCSE and attended extracurricular programming classes, developing skills using **Python** in the **IDLE editor**, I have always had a deep passion for programming and undertaking the problem solving that comes with it. Using the **IDLE editor** I solved basic industry and software problems with **Python** as well as working on my own personal mini-game projects.
