@@ -13,6 +13,8 @@ I began my journey with programming at Secondary School where I took up a Comput
 
 Following this passion I took up a **Level 3 Diploma in Games Design** at Penwith College which is where I am studying now. In my first year on this Diploma, I developed my first complete games within **Unity**, such as a [Horror Clicker Game](https://youtu.be/4l4xoVPqt14), learning to program in **C#** and with **Microsoft Visual Studio**. For this Clicker Game project, I used my own assets made from a previous project where I developed skills using **3DS Max** and created and textured a fully rendered and complete alleyway scene, which I used as the environment for the project, combining my skills together.
 
+<br>
+
 ## 🌙 A little more detail...
 
 ````
