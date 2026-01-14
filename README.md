@@ -52,7 +52,7 @@ const samw18-cmd = {
 <br>
 
 ## 👾 Some more examples of my work...
-If you haven't already, you can click the hyperlinks to view demos and gameplay of some of my work! Below are some examples of my other work. <br>
+If you haven't already, you can click the hyperlinks to view demos and gameplay of some of my work! Below are some examples of my other visual designs created during the design process of other projects. <br>
 <br>
 
 <img width="11811" height="5906" alt="FMP GDD One Sheet" src="https://github.com/user-attachments/assets/8e4c3057-7675-4d04-8d0b-6991e440e0de" />
