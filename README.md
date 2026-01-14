@@ -75,8 +75,9 @@ If you haven't already, you can click the hyperlinks to view demos and gameplay 
 
 ## 📍 Finally, you can find me at...
 - samwoodhams2008@gmail.com <br>
-Feel free to contact me!
+Thanks for reading! Feel free to contact me through email and I'll respond promptly.
 
+<br>
 
 
 
