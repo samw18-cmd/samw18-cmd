@@ -51,12 +51,6 @@ const samw18-cmd = {
 
 <br>
 
-## 📍 Find me at...
-- samwoodhams2008@gmail.com <br>
-Feel free to contact me!
-
-<br>
-
 ## 👾 Some more examples of my work...
 If you haven't already, you can click the hyperlinks to view demos and gameplay of some of my work! Below are some examples of my other work. <br>
 <br>
@@ -76,6 +70,12 @@ If you haven't already, you can click the hyperlinks to view demos and gameplay 
 - [Sound Design Project](https://youtu.be/azRty6Pg5ZM)
 - [ULTRAKILL: Pinball TRAILER](https://youtu.be/Jw5zIvuWlEY)
 - [ULTRAKILL: Pinball GAMEPLAY](https://youtu.be/2j_xjuMkq8U)
+
+<br>
+
+## 📍 Finally, you can find me at...
+- samwoodhams2008@gmail.com <br>
+Feel free to contact me!
 
 
 
