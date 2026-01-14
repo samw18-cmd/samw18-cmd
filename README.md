@@ -68,6 +68,7 @@ If you haven't already, you can click the hyperlinks to view demos and gameplay 
 <img width="4683" height="3012" alt="READYORNOT FINAL ART PIECE" src="https://github.com/user-attachments/assets/a08f0a79-18d7-45de-a83a-3cc55ae59fa0" />
 
 <br>
+<br>
 
 **You can view all of my games and finished project gameplay in order of earliest to most recent HERE:** <br>
 - [Horror Clicker Game](https://youtu.be/4l4xoVPqt14)
