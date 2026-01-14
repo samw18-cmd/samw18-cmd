@@ -53,7 +53,7 @@ const samw18-cmd = {
 
 ## 📍 Find me at...
 - samwoodhams2008@gmail.com
-- 
+Feel free to contact me!
 
 
 <!--
