@@ -30,6 +30,8 @@ As of currently, within my second year on this Diploma I have completed a [Sound
 
 <br>
 
+***
+
 ## 🌙 A little more detail...
 
 ````
